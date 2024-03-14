@@ -1,9 +1,40 @@
-## Hi, I'm Simon👋👨‍💻
+# Hi, I'm Simon👋👨‍💻
 
-<img src="https://raw.githubusercontent.com/KoTubA/KoTubA/master/git-header-image.png" alt="banner that says Don't hate me, i'm just learn...">
+<img src="git-header-image.jpg" alt="banner that says Don't hate me, i'm just learn...">
 
-My name is **Szymon Kotarba,** I'm interested in programming, especially **front-end.**  In my spare time, I immerse myself in computer games, or watch a good series from time to time. I'm a man with a sense of humor, open to new acquaintances. I try to infect people around me with my optimism and life energy.
+👇 Run this command in your terminal to connect with me:
+```bash
+npx kotuba
+```
+**👆 You can find this command line tool at [npx kotuba](https://github.com/kotuba/npx_card)**
 
-- 🌱 I’m currently learning everything related to front-end,
-- 🏋️ The gym is my second home,
-- ⚡ Fun fact: I love dogs 🐶
+### A little more about me...
+
+```yaml
+{
+  name: Szymon Kotarba,
+  role: Frontend Developer,
+  technologies: {
+    code: ["JavaScript", "TypeScript", "HTML", "CSS"],
+    secondcode: ["Python", "PHP", "C", "C++", "SQL", "Node.js"],
+    libraries: ["React", "Next.js", "Gatsby", "Vite", "Astro"],
+    styling: ["Styled-components", "Tailwind CSS", "SCSS", "StyleX"],
+    tools: ["Redux", "ESLint", "Prettier", "Storybook", "Jest", "NPM", "Webpack", "and more..."]
+  },
+  hobbies: ["Gym", "Personal development", "Self-care", "Travel", "Time management", "Climbing"],
+  funFact: "I love dogs 🐶",
+
+  lastprojects: [
+      {
+        "name": "edk-routes",
+        "description": "Application for displaying EDK routes"
+        "website": "https://trasy.edk.org.pl/",
+      },
+      {
+        "name": "edk-donations",
+        "description": "Application for Internet Payment on EDK Website"
+        "website": "https://pakiety.edk.org.pl/",
+      }
+    ]
+}
+```
