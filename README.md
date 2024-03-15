@@ -32,7 +32,7 @@ npx kotuba
     {
       "name": "edk-donations"
       "description": "Application for Internet Payment on EDK Website"
-      "website": "https://pakiety.edk.org.pl/"
+      "website": " https://wspieram.edk.org.pl/"
     }
   ]
 }
