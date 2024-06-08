@@ -23,17 +23,5 @@ npx kotuba
   }
   hobbies: ["Gym", "Personal development", "Self-care", "Travel", "Time management", "Climbing"]
   funFact: "I love dogs 🐶"
-  lastprojects: [
-    {
-      "name": "edk-routes"
-      "description": "Application for displaying EDK routes"
-      "website": "https://trasy.edk.org.pl/"
-    },
-    {
-      "name": "edk-donations"
-      "description": "Application for Internet Payment on EDK Website"
-      "website": " https://wspieram.edk.org.pl/"
-    }
-  ]
 }
 ````
